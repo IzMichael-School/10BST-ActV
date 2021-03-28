@@ -17,6 +17,13 @@
     color: transparent;
 }
 
+.divider2 {
+    height: 5px;
+    width: 1rem;
+    background-color: black;
+    color: transparent;
+}
+
 .cardWrapper {
     height: 47.5vh;
     width: 100%;
@@ -68,7 +75,6 @@
 
 .cardTextBox {
     flex: 1 1 0%;
-    margin-left: 1rem;
     display: flex;
     flex-direction: row;
     justify-content: start;
